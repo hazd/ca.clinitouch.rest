@@ -2,11 +2,11 @@
 ## Java rest for Clinical
 This is a Java Clinical RESTful Service.
 For any questions please contact us.
-prerequisite:
+## Prerequisites:
 - Tomcat 8
 - Eclipse
 - Define in the Server config in Eclipse a jndi resource for the database connection:
-[code]
+```
 <Resource
     name="jdbc/clinicaldb"
     auth="Container"
@@ -19,4 +19,4 @@ prerequisite:
     username="root"
     password="test"
     />
-[/code]
+```
