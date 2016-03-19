@@ -17,6 +17,6 @@ For any questions please contact us.
     driverClassName="com.mysql.jdbc.Driver"
     url="jdbc:mysql://localhost:3306/clinicaldb"
     username="root"
-    password="test"
+    password="your-password-here"
     />
 ```
